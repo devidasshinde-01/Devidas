@@ -1,0 +1,277 @@
+/* hero section start */
+
+         
+   #navbar-section a{
+        font-family: 'Roboto', sans-serif;
+        font-weight: bold;
+
+   }
+   .header-img{
+    background-image: url(../images/hero-bg.jpg);
+     background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh;
+    width: 100%;
+
+}
+    #hero_section .fresh{
+            color: orange;
+     margin-left: 8%;
+     letter-spacing: 5px;
+    }
+    #hero_section .fruits{
+        font-family: 'Roboto', sans-serif;
+            font-size: 20%;
+
+     margin-left: 8%;
+     
+    }
+
+     #hero_section .fruits h1,h6{
+        font-size: 65px;
+        font-family: 'Roboto', sans-serif;
+     }
+
+      #hero_section .hero-button1{
+            background-color: orange;
+            border: none;
+                    font-family: 'Roboto', sans-serif;
+
+      }
+      #hero_section .hero-button2{
+       border-color: orange;
+               font-family: 'Roboto', sans-serif;
+   
+   }
+
+/* hero section end */
+
+/*Our Product Section */
+#our_product{
+    border: none;
+}
+#our_product .our_product_heading{
+    color: orange;
+}
+#our_product .hrline{
+    width: 40%;
+    text-align:center;
+    color: orange;
+}
+#our_product .our_product_text{
+    width: 35%;
+    
+}
+#our_product .add_to_cart_btn{
+    background-color: orange;
+    border: none;
+}
+#our_product .card_img1{
+    width: 40vh;
+}
+
+/* services section start */
+
+#services .shipping-btn {
+    border:3px dotted orange;
+}
+#services .support-btn  {
+    border:3px dotted orange;
+}
+#services .Refund-btn {
+    border:3px dotted orange;
+}
+
+#services .fa-truck-fast,.fa-phone-volume,.fa-rotate{
+    color:orange;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+
+
+
+
+/*Our Product Section */
+#our_product{
+    border: none;
+}
+#our_product .our_product_heading{
+    color: orange;
+}
+#our_product .hrline{
+    width: 40%;
+    text-align:center;
+    color: orange;
+}
+#our_product .our_product_text{
+    width: 35%;
+    
+}
+#our_product .add_to_cart_btn{
+    background-color: orange;
+    border: none;
+}
+#our_product .card_img1{
+    width: 40vh;
+}
+
+
+
+/*Deal Section Started */
+#deal_section .deal_time_cart {
+    border:4px solid orange;
+    width: 30%;
+    h2{
+        color: orange;
+        
+    }
+}
+#deal_section{
+    background-color: hsl(0deg 0% 96.47%);
+
+}
+
+#deal_section .deal_section_heading{
+    color: orange;
+    font-weight: bold;
+}
+#deal_section  .add_to_cart_btn{
+    background-color: orange;
+    border: none;
+    width: 150px;
+}
+
+
+
+/* Shop Owner Section*/
+#shop_owner_section .avtar2{
+    margin-top: 200px;
+    width: 120px;
+}
+#shop_owner_section .shop_owner_section_text{
+    width:600px ;
+}
+
+
+/*Fruitikha section*/
+#fruitkha_section .fruitkha_section_heading{
+    color: orange;
+
+}
+#fruitkha_section .fruitkha_section_img{
+    width: 600px;
+    height: 500px;
+    object-fit: cover;
+    border-radius: 0px 15px;
+
+}
+#fruitkha_section .know_more_btn{
+    border:none;
+    width: 140px;
+    background-color: orange;
+
+
+}
+#fruitkha_section .fruitkha_section_text{
+    width: 73%;
+    line-height: 1.9;
+}
+#fruitkha_section .play_btn{
+    border:none;
+    font-size: 20px;
+    background-color: orange;
+    color: black;
+    position: relative;
+    top: 280px;
+    left: 260px;
+    object-fit: cover;
+    width: 90px;
+
+
+}
+
+
+
+/*December Sell Section*/
+#december_sale{
+    margin-top: 20vh;
+    background-image: url(../images/1.jpg);
+    width: 100%;
+    height: 600px;
+    object-fit:cover;
+    background-repeat: no-repeat;
+    
+
+
+}
+#december_sale .december_sale_heading{
+    color: orange;
+}
+
+#december_sale  .show_more_btn {
+
+
+    border:none;
+    font-size: 20px;
+    background-color: orange;
+    color: black;  
+    width: 170px;  
+    
+}
+
+
+
+/*Our News section */
+#our_news_section .our_news_heading{
+    color: orange;
+}
+#our_news_section .our_news_text{
+    width: 35%;
+    
+}
+#our_news_section .fa-solid {
+    font-size: 11px;
+}
+#our_news_section .more_news_btn{
+    border:none;
+    width: 140px;
+    background-color: orange;
+
+
+}
+#our_news_section hr{
+    color: orange;
+ 
+    align-items: center;
+}
+
+/* footer start */
+
+
+#about hr{
+    color:orange;
+    width:30px;
+    
+}
+
+#about .links, .fas {
+    font-weight: 900;
+    color: orange;
+    font-size: 10px;
+}
+
+#about .imran,.wagon{
+    color:rgb(234, 158, 131)
+}
+
+#about .email{
+    background-color:black;
+    color:gray;
+    border:none;
+}
+
+#about .send{
+    color:orange;
+}
